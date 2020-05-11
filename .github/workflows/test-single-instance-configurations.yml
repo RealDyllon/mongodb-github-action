@@ -1,4 +1,4 @@
-name: Single Instance Tests
+name: Single Instance with Configurations Tests
 
 on: [push]
 
